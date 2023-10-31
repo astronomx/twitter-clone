@@ -1,0 +1,239 @@
+{
+  "tweets": [
+    {
+      "id": 1,
+      "profilepic": "/images/profile/johndoe.png",
+      "name": "John Doe",
+      "display_name": "@johndoe",
+      "time": "2 days ago",
+      "tweet": "Just had a great time at the beach!",
+      "picture": "/images/message/johndoe-message.png",
+      "comments": "2.6M",
+      "retweets": "1.8M",
+      "likes": "2.3M",
+      "views": "2.1M"
+    },
+    {
+      "id": 2,
+      "profilepic": "/images/profile/davidjohnson.png",
+      "name": "David Johnson",
+      "display_name": "@davidjohnson",
+      "time": "4 hours ago",
+      "tweet": "Excited for the weekend!",
+      "picture": null,
+      "comments": "2.2M",
+      "retweets": "1.6M",
+      "likes": "1.9M",
+      "views": "1.7M"
+    },
+    {
+      "id": 3,
+      "profilepic": "/images/profile/janesmith.png",
+      "name": "Jane Smith",
+      "display_name": "@janesmith",
+      "time": "1 day ago",
+      "tweet": "Just finished reading a great book!",
+      "picture": "/images/message/janesmith-message.png",
+      "comments": "1.9M",
+      "retweets": "2.3M",
+      "likes": "2.1M",
+      "views": "2.6M"
+    },
+    {
+      "id": 4,
+      "profilepic": "/images/profile/emilybrown.png",
+      "name": "Emily Brown",
+      "display_name": "@emilybrown",
+      "time": "6 hours ago",
+      "tweet": "Can't wait for the new movie release!",
+      "picture": null,
+      "comments": "2.1M",
+      "retweets": "2.5M",
+      "likes": "2.2M",
+      "views": "1.8M"
+    },
+    {
+      "id": 5,
+      "profilepic": "/images/profile/michaelwilson.png",
+      "name": "Michael Wilson",
+      "display_name": "@michaelwilson",
+      "time": "3 days ago",
+      "tweet": "Had an amazing time hiking in the mountains!",
+      "picture": "/images/message/michaelwilson-message.png",
+      "comments": "1.7M",
+      "retweets": "2.2M",
+      "likes": "1.5M",
+      "views": "1.9M"
+    },
+    {
+      "id": 12,
+      "profilepic": "/images/profile/avathompson.png",
+      "name": "Ava Thompson",
+      "display_name": "@avathompson",
+      "time": "5 hours ago",
+      "tweet": "Excited to start my new job!",
+      "picture": null,
+      "comments": "7.4K",
+      "retweets": "6.9K",
+      "likes": "8.1K",
+      "views": "5.8K"
+    },
+    {
+      "id": 7,
+      "profilepic": "/images/profile/christopherdavis.png",
+      "name": "Christopher Davis",
+      "display_name": "@chrisdavis",
+      "time": "1 day ago",
+      "tweet": "Just watched an incredible concert!",
+      "picture": null,
+      "comments": "18.3K",
+      "retweets": "15.2K",
+      "likes": "11.9K",
+      "views": "13.1K"
+    },
+    {
+      "id": 8,
+      "profilepic": "/images/profile/oliviamartinez.png",
+      "name": "Olivia Martinez",
+      "display_name": "@oliviamartinez",
+      "time": "7 hours ago",
+      "tweet": "Excited for the new season of my favorite TV show!",
+      "picture": "/images/message/oliviamartinez-message.png",
+      "comments": "10.7K",
+      "retweets": "12.9K",
+      "likes": "11.4K",
+      "views": "13.9K"
+    },
+    {
+      "id": 9,
+      "profilepic": "/images/profile/danieltaylor.png",
+      "name": "Daniel Taylor",
+      "display_name": "@danieltaylor",
+      "time": "2 days ago",
+      "tweet": "Just finished a challenging coding project!",
+      "picture": null,
+      "comments": "9.5K",
+      "retweets": "8.2K",
+      "likes": "7.6K",
+      "views": "9.1K"
+    },
+    {
+      "id": 10,
+      "profilepic": "/images/profile/sophiaanderson.png",
+      "name": "Sophia Anderson",
+      "display_name": "@sophiaanderson",
+      "time": "6 hours ago",
+      "tweet": "Had a great time at the museum!",
+      "picture": "/images/message/sophiaanderson-message.png",
+      "comments": "11.3K",
+      "retweets": "10.6K",
+      "likes": "9.8K",
+      "views": "8.7K"
+    },
+    {
+      "id": 11,
+      "profilepic": "/images/profile/jameswilson.png",
+      "name": "James Wilson",
+      "display_name": "@jameswilson",
+      "time": "1 day ago",
+      "tweet": "Just tried a new recipe and it turned out delicious!",
+      "picture": null,
+      "comments": "3.6K",
+      "retweets": "4.9K",
+      "likes": "3.2K",
+      "views": "6.1K"
+    },
+    {
+      "id": 15,
+      "profilepic": "/images/profile/davidsmith.png",
+      "name": "David Smith",
+      "display_name": "@davidsmith",
+      "time": "1 hour ago",
+      "tweet": "Just had a fantastic meal at my favorite restaurant!",
+      "picture": null,
+      "comments": "6.7K",
+      "retweets": "5.2K",
+      "likes": "7.9K",
+      "views": "6.3K"
+    },
+    {
+      "id": 16,
+      "profilepic": "/images/profile/sophiamiller.png",
+      "name": "Sophia Miller",
+      "display_name": "@sophiamiller",
+      "time": "3 hours ago",
+      "tweet": "Excited to announce my upcoming project! Stay tuned. 🚀",
+      "picture": null,
+      "comments": "9.1K",
+      "retweets": "8.6K",
+      "likes": "10.2K",
+      "views": "9.8K"
+    }
+  ],
+
+  "trending": [
+    {
+      "id": 1,
+      "topic": "Climate Change",
+      "category": "Environment",
+      "rank": 1,
+      "posts": "5,000"
+    },
+    {
+      "id": 2,
+      "topic": "Cryptocurrency",
+      "category": "Finance",
+      "rank": 2,
+      "posts": "6,500"
+    },
+    {
+      "id": 3,
+      "topic": "Artificial Intelligence",
+      "category": "Technology",
+      "rank": 3,
+      "posts": "7,000"
+    },
+    {
+      "id": 4,
+      "topic": "Mental Health Awareness",
+      "category": "Health",
+      "rank": 4,
+      "posts": "4,200"
+    },
+    {
+      "id": 5,
+      "topic": "Space Exploration",
+      "category": "Science",
+      "rank": 5,
+      "posts": "5,500"
+    },
+    {
+      "id": 6,
+      "topic": "Remote Work",
+      "category": "Business",
+      "rank": 6,
+      "posts": "4,800"
+    },
+    {
+      "id": 7,
+      "topic": "Fitness Challenges",
+      "category": "Health",
+      "rank": 7,
+      "posts": "3,500"
+    },
+    {
+      "id": 8,
+      "topic": "Diversity and Inclusion",
+      "category": "Social Issues",
+      "rank": 8,
+      "posts": "6,000"
+    },
+    {
+      "id": 9,
+      "topic": "Sustainable Living",
+      "category": "Environment",
+      "rank": 9,
+      "posts": "3,000"
+    }
+  ]
+}
